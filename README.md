@@ -1,54 +1,54 @@
-# TMDB 剧集信息获取工具
+# TMDB Episode Information Fetcher
 
-TMDB 剧集信息获取工具是一款基于 PyQt 开发的桌面应用程序，旨在帮助用户方便快捷地获取和管理来自 TMDB（The Movie Database）数据库的剧集信息。
+TMDB Episode Information Fetcher is a desktop application developed with PyQt, designed to help users easily and quickly retrieve and manage episode information from the TMDB (The Movie Database).
 
-## 特性
+## Features
 
-- **剧集查询**：输入剧集名称并选择语言，快速获取剧集的详细信息。
-- **信息展示**：以可读的格式展示查询结果，方便用户浏览。
-- **导出功能**：将获取的剧集信息导出为 TXT 文件，便于保存和分享。
-- **API 密钥管理**：支持用户输入和保存 TMDB API 密钥，确保顺利访问 TMDB 数据。
+- **Episode Query**: Input the show name and select a language to quickly retrieve detailed information about the episodes.
+- **Information Display**: Display query results in a readable format for easy browsing.
+- **Export Functionality**: Export the retrieved episode information to a TXT file for convenient saving and sharing.
+- **API Key Management**: Supports user input and storage of the TMDB API key to ensure smooth access to TMDB data.
 
-## 安装
+## Installation
 
-1. 确保你的系统上安装了 Python 3.x。
-2. 克隆或下载本项目：
+1. Ensure that Python 3.x is installed on your system.
+2. Clone or download this project:
    ```bash
    git clone https://github.com/yourusername/tmdb-episode-fetcher.git
    cd tmdb-episode-fetcher
    ```
-3. 安装所需的依赖：
+3. Install the required dependencies:
    ```bash
    pip install -r requirements.txt
    ```
 
-## 使用
+## Usage
 
-1. 运行应用程序：
+1. Run the application:
    ```bash
    python cs.py
    ```
-2. 在输入框中输入剧集名称。
-3. 选择语言。
-4. 点击“获取剧集名称”按钮。
-5. 查看查询结果，或选择导出功能将信息保存为 TXT 文件。
+2. Enter the show name in the input box.
+3. Select the language.
+4. Click the "Get Episode Names" button.
+5. View the query results or use the export feature to save the information as a TXT file.
 
-## 配置 API 密钥
+## API Key Configuration
 
-在首次运行时，应用程序会提示你输入 TMDB API 密钥。你可以在 [TMDB 官网](https://www.themoviedb.org/) 注册并获取 API 密钥。输入后，应用程序会将其保存，以便后续使用。
+Upon first run, the application will prompt you to enter your TMDB API key. You can register and obtain an API key at the [TMDB website](https://www.themoviedb.org/). After entering it, the application will save it for future use.
 
-## 贡献
+## Contribution
 
-欢迎对本项目提出建议或贡献代码！请提交 Pull Request 或在 Issues 中报告问题。
+Contributions and suggestions are welcome! Please submit a Pull Request or report issues in the Issues section.
 
-## 许可证
+## License
 
-本项目采用 MIT 许可证，详情请查看 [LICENSE](LICENSE) 文件。
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
-## 联系
+## Contact
 
-如有任何问题或建议，请联系：
+For any questions or suggestions, please contact:
 
-- 你的名字
-- 你的邮箱
-- 你的 GitHub 主页链接
+- Your Name
+- Your Email
+- Your GitHub Profile Link
