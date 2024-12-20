@@ -49,6 +49,6 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 For any questions or suggestions, please contact:
 
-- Your Name
-- Your Email
-- Your GitHub Profile Link
+- HeCUana
+- HeCUana@163.com
+- [Your GitHub Profile Link](https://github.com/HeCUana)
