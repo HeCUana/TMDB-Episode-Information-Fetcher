@@ -2,6 +2,9 @@
 
 TMDB Episode Information Fetcher is a desktop application developed with PyQt, designed to help users easily and quickly retrieve and manage episode information from the TMDB (The Movie Database).
 
+## language
+Chinese ： [zh_cn](zh_cn)
+English ：Current Document
 ## Features
 
 - **Episode Query**: Input the show name and select a language to quickly retrieve detailed information about the episodes.
