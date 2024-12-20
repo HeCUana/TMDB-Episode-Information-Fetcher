@@ -2,6 +2,10 @@
 
 TMDB 剧集信息获取工具是一款基于 PyQt 开发的桌面应用程序，旨在帮助用户方便快捷地获取和管理来自 TMDB（The Movie Database）数据库的剧集信息。
 
+## 语言
+- **English** ：[US](https://github.com/HeCUana/TMDB-Episode-Information-Fetcher)
+- **Chinese** ： 当前文档
+  
 ## 特性
 
 - **剧集查询**：输入剧集名称并选择语言，快速获取剧集的详细信息。
