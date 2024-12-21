@@ -17,7 +17,7 @@ TMDB Episode Information Fetcher is a desktop application developed with PyQt, d
 1. Ensure that Python 3.x is installed on your system.
 2. Clone or download this project:
    ```bash
-   git clone https://github.com/yourusername/tmdb-episode-fetcher.git
+   git clone https://github.com/HeCUana/tmdb-episode-fetcher.git
    cd tmdb-episode-fetcher
    ```
 3. Install the required dependencies:
