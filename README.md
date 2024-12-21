@@ -29,7 +29,7 @@ TMDB Episode Information Fetcher is a desktop application developed with PyQt, d
 
 1. Run the application:
    ```bash
-   python cs.py
+   python TMDB-Episode-Information-Fetcher.py
    ```
 2. Enter the show name in the input box.
 3. Select the language.
